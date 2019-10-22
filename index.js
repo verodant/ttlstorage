@@ -1,3 +1,3 @@
-import { Ttlstorage } from "./ttlstorage.js";
+import { TTLStorage } from "./ttlstorage.js";
 
-window.ttls = new Ttlstorage;
+window.ttls = new TTLStorage;
